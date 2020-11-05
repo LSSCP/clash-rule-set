@@ -25,6 +25,7 @@ payload:
 - DOMAIN-SUFFIX,newrelic.com
 - DOMAIN,sw88.go.com
 - DOMAIN,abcnews.hb.omtrdc.net
+- DOMAIN,clientapi-latency.geo.hosted.espn.com
 # > Google Service
 - DOMAIN-SUFFIX,youtube.com
 - DOMAIN-SUFFIX,ytimg.com
