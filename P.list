@@ -1,0 +1,6 @@
+payload:
+# > skr
+- PROCESS-NAME,Spark
+- DOMAIN-SUFFIX,deepl.com
+- DOMAIN-SUFFIX,linguee.com
+- DOMAIN-SUFFIX,docker.com
