@@ -28,4 +28,5 @@ payload:
 - DOMAIN,linear-abematv.akamaized.net
 - DOMAIN,api-abematv.bucketeer.jp
 - DOMAIN,a934.d.akamai.net
-- DOMAINabema.adx.promo
+- DOMAIN,abema.adx.promo
+- DOMAIN,fds.youborafds01.com
