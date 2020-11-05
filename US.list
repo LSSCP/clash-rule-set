@@ -34,6 +34,7 @@ payload:
 - DOMAIN-SUFFIX,abcotvs.com
 - DOMAIN,abcnews.go.com
 - DOMAIN,abcnewsvod-f.akamaihd.net
+- DOMAIN-SUFFIX,seabcnews.go.com
 - IP-CIDR,99.84.232.0/21,no-resolve
 # > Google Service
 - DOMAIN-SUFFIX,youtube.com
