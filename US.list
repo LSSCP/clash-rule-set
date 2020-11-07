@@ -64,6 +64,7 @@ payload:
 - DOMAIN-SUFFIX,appspot.com
 - IP-CIDR,130.211.0.0/16,no-resolve
 - DOMAIN,ocsp.pki.goog
+- DOMAIN-SUFFIX,g.page
 # > News
 - PROCESS-NAME,News
 - DOMAIN-SUFFIX,washingtonpost.com
