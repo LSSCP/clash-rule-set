@@ -47,6 +47,7 @@ payload:
 - DOMAIN-SUFFIX,isnssdk.com
 - DOMAIN,p16-va-default.akamaized.net
 - DOMAIN,p16-sg-default.akamaized.net
+- DOMAIN,p16-tiktokcdn-com.akamaized.net
 - DOMAIN-SUFFIX,sgsnssdk.com
 - DOMAIN-SUFFIX,byteoversea.com
 - DOMAIN-SUFFIX,amazon.co.jp
