@@ -1,6 +1,6 @@
 payload:
 # > Resticted
-
+- DOMAIN-SUFFIX,google.co.jp
 - DOMAIN-SUFFIX,nicoseiga.jp
 - DOMAIN-SUFFIX,nicovideo.jp
 - DOMAIN-SUFFIX,nimg.jp
