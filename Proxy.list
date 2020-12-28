@@ -168,3 +168,7 @@ payload:
 - DOMAIN-SUFFIX,mitmproxy.org
 - DOMAIN-SUFFIX,ubuntu.com
 - DOMAIN-SUFFIX,bandwagonhost.com
+- DOMAIN-SUFFIX,firecore.com
+- DOMAIN-SUFFIX,discourse-cdn.com
+- DOMAIN,ocsp.int-x3.letsencrypt.org
+- DOMAIN-SUFFIX,infuse.im
