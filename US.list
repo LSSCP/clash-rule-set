@@ -5,6 +5,7 @@ payload:
 - DOMAIN-SUFFIX,bwbx.io
 - DOMAIN-SUFFIX,bbhub.io
 - DOMAIN-SUFFIX,bloom.bg
+- DOMAIN,liveprodusphoenixwest.akamaized.net
 # > US-TV
 - DOMAIN-SUFFIX,youboranqs01.com
 - DOMAIN,bbgvod-azure-us-east1-zenko.global.ssl.fastly.net
