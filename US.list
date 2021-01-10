@@ -73,3 +73,9 @@ payload:
 - DOMAIN-SUFFIX,nytimes.com
 - DOMAIN-SUFFIX,nytimes.com
 - DOMAIN-SUFFIX,nyt.com
+- DOMAIN-SUFFIX,disquscdn.com
+- DOMAIN-SUFFIX,bootstrapcdn.com
+- DOMAIN-SUFFIX,disqus.com
+- DOMAIN-SUFFIX,rawgit.com
+- DOMAIN-SUFFIX,firehol.org
+- DOMAIN-SUFFIX,golang.org
