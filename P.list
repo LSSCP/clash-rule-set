@@ -1,6 +1,5 @@
 payload:
 # > skr
-- PROCESS-NAME,Spark
 - DOMAIN-KEYWORD,smtp
 - DOMAIN-KEYWORD,imap
 - DOMAIN-SUFFIX,gmail.com
