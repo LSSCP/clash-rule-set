@@ -11,5 +11,4 @@ payload:
 # > viu
 - DOMAIN-SUFFIX,viu.com
 
-# > live-tv
-- IP-CIDR,185.207.176.189/32
+
